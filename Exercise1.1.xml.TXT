@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <catalogue name="Technical">
+        <book>
+            <ISBN>1234</ISBN>
+            <title>Programming</title>
+            <author>Gabriel</author>
+        </book>
+        <book>
+            <ISBN>2345</ISBN>
+            <title>Data Structures</title>
+            <author>Maique</author>
+        </book>
+    </catalogue>
+    <catalogue name="Cookery">
+        <book>
+            <ISBN>3456</ISBN>
+            <title>Cooking Basics</title>
+            <author>Ga Maique</author>
+        </book>
+        <book>
+            <ISBN>4567</ISBN>
+            <title>Healthy Recipes</title>
+            <author>Gabri Maique</author>
+        </book>
+    </catalogue>
+</library>
